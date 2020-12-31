@@ -1,0 +1,46 @@
+# Java语言能力地图
+
+## 内容
+
+- [数据类型](https://github.com/anchem/Knowledge/blob/main/software/keyability/implementation/language/java/javadatatype.md)
+- 语法
+  - 运算符
+  - 控制流
+- 面向对象特性
+  - 封装
+  - 复用
+  - 多态
+  - 接口
+  - 初始化和清理
+  - 内部类
+- 语言特性
+  - 异常
+  - 反射
+  - IO
+  - 字符串
+  - 集合
+  - 数组
+  - 枚举
+  - 注解
+  - 序列化
+  - Stream API
+  - 日期和时间
+  - 类型系统
+  - 泛型
+- 函数式编程
+- 并发编程
+- 网络编程
+- 日志处理
+- 数据压缩
+- 数据库编程
+- 文档处理
+  - [XML读写](https://github.com/anchem/Knowledge/blob/main/software/keyability/implementation/language/java/xmlreadandwrite.md)
+- Java Web
+- 安全
+- 单元测试
+- 文档注释
+- 项目管理
+  - Maven
+- JVM
+- 常用框架
+  - Spring
