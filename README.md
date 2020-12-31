@@ -10,11 +10,11 @@
 
 知识按照**主题**进行分类归档，以方便使用的原则进行系统性的总结整理。
 
-- [**软件**](https://gitee.com/still-waters/knowledge/blob/master/Software/Main.md)
-- [**思维**](https://gitee.com/still-waters/knowledge/blob/master/Thoughts/Main.md)
+- [**软件**](https://github.com/anchem/Knowledge/blob/main/software/main.md)
+- [**思维**](https://github.com/anchem/Knowledge/blob/main/thoughts/main.md)
 - 决策
-- [**沟通**](https://gitee.com/still-waters/knowledge/blob/master/Communication/Main.md)
-- [**学习**](https://gitee.com/still-waters/knowledge/blob/master/Learning/main.md)
+- [**沟通**](https://github.com/anchem/Knowledge/blob/main/communication/main.md)
+- [**学习**](https://github.com/anchem/Knowledge/blob/main/learning/main.md)
 - 关系
 - 传播
 - 教育
