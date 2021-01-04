@@ -78,8 +78,10 @@ void slidingWindow(String s, String t) {
 6. [最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)
 7. [和相同的二元子数组](https://leetcode-cn.com/problems/binary-subarrays-with-sum/)
 8. [水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/)
-9. [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)
-10. [统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)
-11. [K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/)
+9. [尽可能使字符串相等](https://leetcode-cn.com/problems/get-equal-substrings-within-budget/)
+10. [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)
+11. [统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)
+12. [K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/)
+13. [定长子串中元音的最大数目](https://leetcode-cn.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 
 ### 2. Two points, 双指针类型
