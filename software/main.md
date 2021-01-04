@@ -3,7 +3,7 @@
 ## 内容
 
 - 基础内功
-  - 算法与数据结构
+  - [算法与数据结构](https://github.com/anchem/Knowledge/blob/main/software/basic/algorithm.md)
   - 操作系统
   - 计算机网络
   - 数据库及存储
