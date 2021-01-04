@@ -20,3 +20,7 @@
 - 教育
 - 讲故事
 - 健康
+
+## 持续更新
+
+更新记录请参考 -> [这里](https://github.com/anchem/Knowledge/blob/main/changelog.md)
