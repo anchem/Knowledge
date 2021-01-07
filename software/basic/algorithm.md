@@ -1,8 +1,22 @@
 # 数据结构与算法
 
-## 常见常考算法总结
+## 算法总结
 
-### 1. Sliding window，滑动窗口类型
+### Two points, 双指针类型
+
+**【算法思想】**
+
+双指针，指的是在遍历对象（数组、链表、字符串等）的过程中，不是普通的使用单个指针进行访问，而是使用两个相同方向（快慢指针）或者相反方向（对撞指针）的指针进行扫描，从而达到相应的目的。
+
+相反方向的双指针，对撞指针，适用于数组，尤其是有序数组。
+
+相同方向的双指针，快慢指针，两个指针步长不同；固定间距指针，两个指针间隔固定的距离，并且拥有相同的步长。适用于链表和数组。
+
+#### 题目
+
+[双指针标签](https://leetcode-cn.com/problemset/all/?topicSlugs=two-pointers)
+
+### Sliding window，滑动窗口类型
 
 **【背景问题】**
 
@@ -84,4 +98,4 @@ void slidingWindow(String s, String t) {
 12. [K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/)
 13. [定长子串中元音的最大数目](https://leetcode-cn.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 
-### 2. Two points, 双指针类型
+
