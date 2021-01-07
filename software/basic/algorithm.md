@@ -2,7 +2,7 @@
 
 ## 算法总结
 
-### Two points, 双指针类型
+### :point_right: Two points, 双指针类型
 
 **【算法思想】**
 
@@ -16,7 +16,7 @@
 
 [双指针标签](https://leetcode-cn.com/problemset/all/?topicSlugs=two-pointers)
 
-### Sliding window，滑动窗口类型
+### :point_right: Sliding window，滑动窗口类型
 
 **【背景问题】**
 
