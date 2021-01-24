@@ -2,7 +2,7 @@
 
 ## 初心
 
-本项目用于整理和归档日常所思所学的关于客观世界的知识。
+本项目用于整理和归档日常所思所学的知识。
 
 ## 范围说明
 
@@ -15,6 +15,7 @@
 - 决策
 - [**沟通**](https://github.com/anchem/Knowledge/blob/main/communication/main.md)
 - [**学习**](https://github.com/anchem/Knowledge/blob/main/learning/main.md)
+- 管理
 - 关系
 - 传播
 - 教育
