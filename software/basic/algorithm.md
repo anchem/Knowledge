@@ -1,6 +1,40 @@
 # 数据结构与算法
 
-## 算法总结
+## 内容
+
+### 常见数据结构
+
+- 数组
+- 链表：高频
+- 栈：包括单调栈
+- 队列：包括优先队列，双端队列
+- 哈希表：高频
+- 字符串
+- 堆：高频
+- 树：递归，层次遍历，前中后序遍历，二叉查找树，字典树
+- 图：包括二分图，拓扑排序
+- 线段树
+- 并查集
+
+### 常用算法
+
+- 排序：快排和归并变体，循环排序
+- 搜索
+ - 深度优先搜索：高频，递归
+ - 广度优先搜索：高频
+- 二分法：背模板
+- 分治法：常与二叉树一起出现
+- 双指针：高频，变形多，快慢指针
+- 滑动窗口
+- 区间合并
+- 贪心算法
+- 动态规划：高频
+- 拓扑排序：高频
+- 位运算
+
+## 数据结构
+
+## 算法
 
 ### :point_right: Two points, 双指针类型
 
@@ -98,4 +132,6 @@ void slidingWindow(String s, String t) {
 12. [K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/)
 13. [定长子串中元音的最大数目](https://leetcode-cn.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 
+## 资源
 
+[信息学奥林匹克竞赛](https://oi-wiki.org/)
