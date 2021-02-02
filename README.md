@@ -15,7 +15,7 @@
 - 决策
 - [**沟通**](https://github.com/anchem/Knowledge/blob/main/communication/main.md)
 - [**学习**](https://github.com/anchem/Knowledge/blob/main/learning/main.md)
-- 管理
+- [**管理**](https://github.com/anchem/Knowledge/blob/main/management/main.md)
 - 关系
 - 传播
 - 教育
