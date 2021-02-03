@@ -21,7 +21,7 @@
 - :point_right: [贪心算法](https://github.com/anchem/Knowledge/blob/main/software/basic/algorithm/greedy.md)
 - :point_right: [双指针](https://github.com/anchem/Knowledge/blob/main/software/basic/algorithm/twopoints.md)：高频，变形多，快慢指针，滑动窗口
 - :point_right: 二分法：模板
-- :point_right: 排序：快排和归并变体，循环排序
+- :point_right: [排序](https://github.com/anchem/Knowledge/blob/main/software/basic/algorithm/sort.md)：快排和归并变体，循环排序
 - :point_right: 搜索
  - 深度优先搜索：高频，递归
  - 广度优先搜索：高频
