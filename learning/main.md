@@ -92,7 +92,7 @@
 
 写文章，做视频，讲故事，教授他人，讨论辨析等等，都是输出方式。
 
-#### 术
+#### 学习之术
 
 - [项目式学习](https://github.com/anchem/Knowledge/blob/main/learning/projectbasedlearning.md)
 
