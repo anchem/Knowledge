@@ -12,7 +12,7 @@
 
 - [**软件**](https://github.com/anchem/Knowledge/blob/main/software/main.md)
 - [**思维**](https://github.com/anchem/Knowledge/blob/main/thoughts/main.md)
-- 决策
+- [**决策**](https://github.com/anchem/Knowledge/blob/main/decision/main.md)
 - [**沟通**](https://github.com/anchem/Knowledge/blob/main/communication/main.md)
 - [**学习**](https://github.com/anchem/Knowledge/blob/main/learning/main.md)
 - [**管理**](https://github.com/anchem/Knowledge/blob/main/management/main.md)
