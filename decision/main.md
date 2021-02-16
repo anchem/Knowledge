@@ -10,7 +10,7 @@
 
 ## :pushpin: 决策框架
 
-### 6个基本要素（问题）
+### :triangular_flag_on_post: 6个基本要素（问题）
 
 充分思考这6个问题，是做出优质决策的关键。
 
@@ -62,13 +62,13 @@
 
 要充分考虑执行决策所面临的挑战及所需的资源。
 
-### 决策思维
+### :triangular_flag_on_post: 决策思维
 
 #### 相关思维模型
 
 - [内心董事会](https://github.com/anchem/Knowledge/blob/main/thoughts/model/innerboard.md)
 
-### 偏见与陷阱
+### :triangular_flag_on_post: 偏见与陷阱
 
 #### 决策与结果无关
 
