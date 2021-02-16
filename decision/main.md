@@ -66,11 +66,11 @@
 
 #### 相关思维模型
 
-- [内心董事会](https://github.com/anchem/Knowledge/blob/main/thoughts/model/innerboard.md)
+- :point_right: [内心董事会](https://github.com/anchem/Knowledge/blob/main/thoughts/model/innerboard.md)
 
 ### :triangular_flag_on_post: 偏见与陷阱
 
-#### 决策与结果无关
+#### :point_right: 决策与结果无关
 
 面对不确定时，我们必须从做出决策的那一刻判断决策的质量，而不是待结果明了后再取评判。因为我们能控制决策，但不能控制结果。结果可能在很长一段时间之后才能显现，也可能影响是多方面的。
 
