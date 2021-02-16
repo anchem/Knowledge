@@ -2,7 +2,7 @@
 
 ## 2021
 
-- 【2021/02/16】 - 更新 [决策](https://github.com/anchem/Knowledge/blob/main/decision/main.md) 的内容。
+- 【2021/02/16】 - 新增 [决策](https://github.com/anchem/Knowledge/blob/main/decision/main.md) 的内容。
 - 【2021/02/07】 - 更新 [学习](https://github.com/anchem/Knowledge/blob/main/learning/main.md) 的内容。
 - 【2021/02/02】 - 新增 [管理](https://github.com/anchem/Knowledge/blob/main/management/main.md) 和 [精力管理](https://github.com/anchem/Knowledge/blob/main/management/energymanagement.md) 的内容。
 - 【2021/01/24】 - 更新 [学习](https://github.com/anchem/Knowledge/blob/main/learning/main.md) 的内容。
