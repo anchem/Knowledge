@@ -66,7 +66,7 @@
 
 #### 相关思维模型
 
-- :point_right: [内心董事会](https://github.com/anchem/Knowledge/blob/main/thoughts/model/innerboard.md)
+- [内心董事会](https://github.com/anchem/Knowledge/blob/main/thoughts/model/innerboard.md)
 
 ### :triangular_flag_on_post: 偏见与陷阱
 
