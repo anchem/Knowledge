@@ -16,7 +16,7 @@
 
 ## 偏见与陷阱
 
-整理中...
+[决策偏见与陷阱](https://github.com/anchem/Knowledge/blob/main/decision/biasandpitfalls.md)
 
 ## 参考资料
 
