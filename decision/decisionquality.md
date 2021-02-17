@@ -1,6 +1,6 @@
 # 《斯坦福商业决策课》笔记
 
-## :pushpin: 决策框架
+## :pushpin: 优质决策框架
 
 ### :triangular_flag_on_post: 6个基本要素（问题）
 
