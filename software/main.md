@@ -18,6 +18,7 @@
     - [面向对象分析与设计](https://github.com/anchem/Knowledge/blob/main/software/keyability/designandrefactor/objectorientedanalysisanddesign.md)
     - 设计原则
     - 设计模式
+    - [API 设计](https://github.com/anchem/Knowledge/blob/main/software/keyability/designandrefactor/apidesign.md)
   - 编码实现
     - 编程语言
       - [Java](https://github.com/anchem/Knowledge/blob/main/software/keyability/implementation/language/java/javamain.md)
