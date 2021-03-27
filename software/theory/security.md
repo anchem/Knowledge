@@ -12,3 +12,38 @@
 
 ### 哈希算法
 
+也叫摘要算法，指纹算法，散列算法，杂凑算法。
+
+由一个单向的Hash函数对数据集进行计算而产生，数据接收方可以使用相同的Hash函数计算，对比结果来确认数据是否被篡改。
+
+由哈希算法得到的结果长度从16、20到32字节不等。
+
+哈希算法的特点：
+
+1. 数据集合向结果集合的多对一映射。
+2. 从结果无法反推数据的不可逆运算。
+3. 数据长度是任意的，结果的长度是固定的。
+4. 任何计算机对相同数据采用相同的哈希算法，得到的结果相同。
+
+#### 哈希算法 -- MD家族
+
+MD(Message Digest)算法的计算结果是16字节，即128位，MD2 -> MD4 -> MD5，已明确均属于不安全密码算法。
+
+#### 哈希算法 -- SHA家族
+
+SHA(Secure Hash Algorithm)推荐使用SHA256或以上的版本。
+
+包含SHA-0, SHA-1, SHA-2这3个版本，具体细分还有SHA-1-160，SHA-2-224，SHA-2-256，SHA-2-384，SHA-2-512，也可简略成SHA256。
+
+其中SHA-1已明确属于不安全的算法。
+
+#### 哈希算法 -- MAC家族
+
+MAC(Message Authentication Code，消息认证码算法)也被称为HMAC(keyed_Hash Message Authentication Code)，结合了MD5和SHA算法的优势，加入了密钥的支持。
+
+MAC算法主要集合了MD和SHA两大系列消息摘要算法：
+
+MD系列的算法有HmacMD2、HmacMD4、HmacMD5三种算法；
+
+SHA系列的算法有HmacSHA1、HmacSHA224、HmacSHA256、HmacSHA384.HmacSHA512五种算法。
+
