@@ -12,6 +12,7 @@
 - 理论方法
   - [现代软件工程](https://github.com/anchem/Knowledge/blob/main/software/theory/softwareengineering/main.md)
   - 安全可信
+  - 安全
 - 关键能力
   - 软件需求分析
   - 软件设计与重构
