@@ -10,11 +10,25 @@ NIO有4大核心抽象概念，**Buffer**、**Charsets**、**Channel**和**Selec
 
 ### Buffer
 
-是数据的容器，每一种容器指定了可以处理的数据类型，Java 的基本数据类型都有其对应的 Buffer，比如`CharBuffer`、`IntBuffer`。（布尔值类型没有）
+是数据的容器，读写的数据都必须经过 Buffer，每一种容器指定了可以处理的数据类型，Java 的基本数据类型都有其对应的 Buffer，比如`CharBuffer`、`IntBuffer`。（布尔值类型没有）
 
 每种 Buffer 提供了一些`get`和`put`方法集用于将数据移至或移出 Buffer。
 
 **Byte**类型的 Buffer 比较特殊，因为它们可以作为 IO 的源或目的，并同时提供其他 Buffer 所没有的能力。
+
+向缓冲区写数据：
+
+1. 从Channel写到Buffer；
+2. 通过Buffer的put方法写到Buffer中；
+
+从缓冲区读取数据：
+
+1. 从Buffer中读取数据到Channel；
+2. 通过Buffer的get方法从Buffer中读取数据；
+
+#### MappedByteBuffer
+
+适合超大文件的读写，MappedByteBuffer 是一种文件内存映射方案，读写性能极高。
 
 ### Charsets
 
