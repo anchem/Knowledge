@@ -17,7 +17,7 @@
 - 语言特性
   - 异常
   - 反射
-  - IO
+  - [IO](https://github.com/anchem/Knowledge/blob/main/software/keyability/implementation/language/java/javaio.md)
   - 字符串
   - 集合
   - 数组
