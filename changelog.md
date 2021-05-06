@@ -2,6 +2,7 @@
 
 ## 2021
 
+- 【2021/05/06】 - 新增 [责任圈模型](https://github.com/anchem/Knowledge/blob/main/thoughts/model/responsibilitycycle.md)
 - 【2021/03/19】 - 新增 [布鲁姆认知领域教育目标分类法](https://github.com/anchem/Knowledge/blob/main/learning/bloomcognitive.md)
 - 【2021/02/16】 - 新增 [决策](https://github.com/anchem/Knowledge/blob/main/decision/main.md) 的内容。
 - 【2021/02/07】 - 更新 [学习](https://github.com/anchem/Knowledge/blob/main/learning/main.md) 的内容。
